@@ -1,0 +1,7 @@
+Datos malcargados en usuarioDAO, con respecto a la base de datos usuario x mail.
+UsuarioDao responde a cheqlogin y chequsuario, por eso no funcionaba el query.
+
+el blogmensajeDao o model habia un dato declarado de mas GetIdcomentario.
+
+24/3/2022
+----------------------------------
